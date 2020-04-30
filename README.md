@@ -1,2 +1,2 @@
-# install
+# Install Scripts
  Various installation scripts.
